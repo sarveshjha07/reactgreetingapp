@@ -23,7 +23,7 @@ function App() {
     <>
       <div>
         <h1>
-          Hello sir,<span style={cssStyle}> {greeting}</span>
+          Hello Beautiful,<span style={cssStyle}> {greeting}</span>
         </h1>
       </div>
     </>
